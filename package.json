@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Melpie10/just-tech-news#readme",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "dotenv": "^15.0.0",
     "express": "^4.17.2",
     "mysql": "^2.18.1",
